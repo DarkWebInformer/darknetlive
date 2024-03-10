@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	IYSmjPrA4pXi4j4KGARESGDQFmHKcJucIZGE6KQDK1M%2BCya6ljJMnZsY%2F5eJNACJsGxXirStJdpL1o0Mdq0Ahh409fUYS28vs3Zas46qgV8kZze8ORQhK9bUMh5jdFBXkbfAEmhqTWg3AEjwHZkViTxDaBzYneX35yz2CdEixmOBYc4OligJly%2Fys4LxhrJnT1hlRQ5sCsvMCxfG3L84KMsr4O6h%2F4heeyiXvZtgFOj8Cid72Ey4qs6MRkMOmUDuZa%2Fx5%2BILtK5LUZ3PbjhJ6A%3D%3D--AFzRW0O%2F3bbvNDgK--BxQaRxCyw4UD4yCSUNNwnQ%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.882923586.1709674201
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.dropbox.com	TRUE	/	FALSE	1999999999	gvc	MTY1OTM3MDE1Njc3Mzg0NTU1Nzc2NDI0MjM2MTYyMjA0NzMxNTMx
+dropbox.com	TRUE	/	FALSE	1999999999	t	Ga9TBGKrGbKiyE7324S5i6gU
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-js_csrf	Ga9TBGKrGbKiyE7324S5i6gU
+www.dropbox.com	TRUE	/	FALSE	1999999999	__Host-ss	HnGYEVIUP8
+www.dropbox.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+dropbox.com	TRUE	/	FALSE	1999999999	locale	en
+

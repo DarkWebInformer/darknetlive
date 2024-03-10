@@ -1,0 +1,12 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Main email: hello@dnl.fail
+Please note the old email@darknetlive.com is deprecated, emails will be forwarded to the new address.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT5hDxxN957aHYrkCCxBW8ct2ThZgUCY+CY1gAKCRCxBW8ct2Th
+ZinRAP4q46x2FEK9WOpq7KaYEcKYhH950PXzmqAijkRx+h66bgEAmbVfvd2CCqJc
+l8HkLsbuRUaEvMCkLuxjPlEqi22kUA4=
+=5q5J
+-----END PGP SIGNATURE-----
