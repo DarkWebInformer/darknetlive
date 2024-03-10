@@ -1,5 +1,7 @@
 # darknetlive
 
+This is a web scrape of Darknetlive. Incognito Market admin has removed the news page. This scrape has everything including the news. Something about me below..
+
 I am DarkWebInformer and I provide CTI from the #DarkWeb & #Clearnet. Ransomware, Darknet Markets, Threat Alerts, Breaches, and more! Inform your infosec team, if data has been exposed!
 
 You can find me on Twitter/X: @DarkWebInformer
